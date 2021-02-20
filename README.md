@@ -12,3 +12,9 @@
 - Install the dependencies using `yarn` or `npm`
   - `yarn` || `npm install`
 - `yarn start` || `npm start` - To start the development server.
+
+## Application Screen
+
+- Planets Page
+
+![app-screen](./src/images/app-screen-2.png)
